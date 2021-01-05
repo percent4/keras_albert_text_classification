@@ -1,0 +1,9 @@
+.idea
+label.json
+__pycache__
+albert_tiny/albert_model*
+albert_base_zh_additional_36k_steps/albert_model*
+albert_base_zh_additional_36k_steps/checkpoint
+albert_xlarge_zh_183k/albert_model*
+albert_xlarge_zh_183k/checkpoint
+albert_test.py
